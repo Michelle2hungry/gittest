@@ -1,23 +1,26 @@
 # Install
 sudo apt-get install git
 
+
 # Initialize the git in ubuntu
 git config --global user.name "Michelle2hungry"
+
 git config --global user.email "1264908491@qq.com"
-'''
-    To see the git configuration:
-        git config --list
-'''
+'''To see the git configuration: git config --list
+
 
 # Create a new repository in Github.com
 (operate online)
+
 e.g. gittest
+
 
 # Make directory in local server
 mkdir gittest
 
+
 # Creat a file
-cd gittest
+cd gittest\n
 ~/gittest/: vim git-ubuntu.md
 (write content into file)
 
